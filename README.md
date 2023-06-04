@@ -22,11 +22,14 @@ Submissions of completed challenges: https://speedrunethereum.com/builders/0xF1B
 ### Challenge #3: Dice betting game and a smart contract to exploit on-chain random generation
 - The verified contract on Etherscan: https://goerli.etherscan.io/address/0x0faE88c709aAA67D3b35Fe1afcba7555ee89a314#code
 - The deployed dapp: https://new-breakfast.surge.sh/
+- Source code: https://github.com/ben132333/challenge-3-dice-game
 
 ### Challenge #4: MVP of Decentralised Exchange - trade "Balloon" tokens and ETH
 - The verified contract on Etherscan: https://goerli.etherscan.io/address/0x6a4880aa68617002a8c71fb6bc8849385ae0266c#code
 - The deployed dapp: https://bashful-dex.surge.sh/
+- Source code: https://github.com/ben132333/challenge-4-dex
 
 ### Challenge #5: a state channel app to pay mini-transactions for every typed word
 - The verified contract on Etherscan: https://sepolia.etherscan.io/address/0x05f15807BE59ed0a44c4E2eF40793CCe89Bef7B1#code
 - The deployed dapp: https://excellent-archives.surge.sh/
+- Source code: https://github.com/ben132333/challenge-5-state-channels
